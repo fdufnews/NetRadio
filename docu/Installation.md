@@ -18,7 +18,9 @@ work in progress!!!
 Added by fdufnews
     If you don't want to use a preinstalled image you can use that very good tutorial that I used to install my touchscreen:
     http://ozzmaker.com/piscreen-driver-install-instructions-2/
+    
     http://ozzmaker.com/enable-console-on-piscreen/
+    
     After installation jump to ### Install MPC and MPD
 
 
