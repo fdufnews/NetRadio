@@ -25,7 +25,7 @@ Development schedule:
     
         Redrawn skin in 480x320
         
-        Added time and date dislay (there is room for it so...)
+        Added time and date display (there is room for it so...)
 
 To be done in order of importance :
 
